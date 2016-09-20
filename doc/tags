@@ -1,0 +1,8 @@
+Vary	vary.txt	/*Vary*
+Vary.txt	vary.txt	/*Vary.txt*
+vary-contents	vary.txt	/*vary-contents*
+vary-install	vary.txt	/*vary-install*
+vary-introduction	vary.txt	/*vary-introduction*
+vary-striptab	vary.txt	/*vary-striptab*
+vary-striptrail	vary.txt	/*vary-striptrail*
+vary-usage	vary.txt	/*vary-usage*
